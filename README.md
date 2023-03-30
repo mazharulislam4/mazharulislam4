@@ -13,10 +13,29 @@ I'm looking to collaborate with a good company to increase my skill too.</i>
 
 ### Skills:
 
-VUE JS / REACT / JQuery / JS / HTML / CSS
+***Frontend***
+  - HTML && CSS 
+  -  CSS Frameworks: <i>Bootstrap</i> <i>Tailwindcss</i>
+  - Javascript
+  - React JS
+  - Vue JS
+  - Redux
+  and some additional frameworks
+  
+***Backend***
+  - Node JS 
+  - Express JS
+  - Mongoose
+  - ejs
+  
+  
+***Database***
+ - Mongodb
+ - MYSQL
 
-- 🔭 I’m currently working on this page. 
 
+### Socials:
+[Facebook](https://www.facebook.com/mazharulislam.4.tamim/)  [LinkedIn ](https://www.linkedin.com/in/mazharul-islam-5194a5204/)
 
 
 

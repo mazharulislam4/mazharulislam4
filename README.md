@@ -35,7 +35,7 @@ I'm looking to collaborate with a good company to increase my skill too.</i>
 
 
 ### Socials:
-[Facebook](https://www.facebook.com/mazharulislam.4.tamim/)  [LinkedIn ](https://www.linkedin.com/in/mazharul-islam-5194a5204/)
+[Facebook](https://www.facebook.com/mazharulislam.4.tamim/) || [LinkedIn ](https://www.linkedin.com/in/mazharul-islam-5194a5204/)
 
 
 

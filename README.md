@@ -17,6 +17,7 @@ I'm looking to collaborate with a good company to increase my skill too.</i>
   - HTML && CSS 
   -  CSS Frameworks: <i>Bootstrap</i> <i>Tailwindcss</i>
   - Javascript
+  - Typescript
   - React JS
   - Vue JS
   - Redux

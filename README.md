@@ -26,17 +26,19 @@ I'm looking to collaborate with a good company to increase my skill too.</i>
 ***Backend***
   - Node JS 
   - Express JS
-  - Mongoose
-  - ejs
+  - firebase
+  - supabase
+
   
   
 ***Database***
  - Mongodb
  - MYSQL
+ - Postgresql
 
 
 ### Socials:
-[Facebook](https://www.facebook.com/profile.php?id=61552041955111) || [LinkedIn ](https://www.linkedin.com/in/mazharul-islam-5194a5204/)
+[Facebook](https://www.facebook.com/mazharul.tamim.28/) || [LinkedIn ](https://www.linkedin.com/in/mazharul-islam-5194a5204/)
 
 
 

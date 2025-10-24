@@ -1,5 +1,5 @@
-### Hi there 👋, I'm **Mazharul Islam Tamim**
-#### Full-Stack Developer | DevOps Enthusiast | Agentic AI Automation designer
+### Hi there , I'm **Mazharul Islam Tamim**
+####  Full-Stack Developer | DevOps Enthusiast | Agentic AI Automation Designer
 
 ---
 
@@ -8,62 +8,79 @@
 I’m a **Full-Stack Developer** with strong expertise in **backend systems**, **database design**, and **system architecture**.  
 I build intelligent and scalable applications using modern technologies across the stack.
 
-- 🧠 Experienced in **Agentic AI** and **Multi-Agent automation systems**
-- 🌐 Skilled in both **Frontend** and **Backend** development  
-- ⚙️ Work with **DevOps tools** like Docker, Kubernetes, and Ansible  
-- 🧩 Use **GitHub** & **GitLab** for version control and CI/CD  
-- 📊 Currently exploring **Data Science** to integrate intelligent, data-driven decision systems  
-- ⚡ Fast learner — I adapt quickly to new technologies, tools, and frameworks  
+-  Experienced in **Agentic AI** and **Multi-Agent automation systems**
+-  Skilled in both **Frontend** and **Backend** development  
+-  Work with **DevOps tools** like Docker, Kubernetes, and Ansible  
+-  Use **GitHub** & **GitLab** for version control and CI/CD  
+-  Currently exploring **Data Science** to integrate intelligent, data-driven decision systems  
+-  Fast learner — I adapt quickly to new technologies, tools, and frameworks  
 
 ---
 
-### 🧰 Tech Stack & Skills
+## Skills & Expertise  
 
-#### 🖥️ Frontend
-- HTML, CSS, SCSS  
-- Frameworks: **Bootstrap**, **Tailwind CSS**  
-- JavaScript, TypeScript  
-- **React.js**, **Next.js**, **Vue.js**  
-- **Redux**, Component-based architecture  
+### Backend Development
+> **Server-side Architecture & APIs**  
+> 11 Skills
 
-#### ⚙️ Backend
-- **Python**, **Node.js**  
-- Frameworks: **Django**, **FastAPI**, **Express.js**  
-- RESTful API design, Authentication & Authorization  
-- Reusable modular service architecture  
-
-#### 🗄️ Database
-- **PostgreSQL**, **MySQL**, **MongoDB**  
-- Schema design, normalization, optimization  
-- ORM tools (Django ORM, Prisma, Sequelize)
-
-#### 🧩 DevOps & Automation
-- **Docker**, **Kubernetes**, **Ansible**  
-- CI/CD pipelines using **GitHub Actions** and **GitLab CI**  
-- System monitoring and container orchestration  
-
-#### 🤖 Artificial Intelligence & Automation
-- **Agentic AI** and **Multi-Agent Systems** for workflow automation  
-- Building intelligent backend logic using LLMs (e.g., OpenAI, LangChain)  
-- Integrating AI-driven automation pipelines  
+| Node.js | Python | Django | FastAPI | Headless CMS |
+|----------|---------|---------|---------|---------------|
+| LangChain | LangGraph | Agentic AI | API Design | System Design |
 
 ---
 
-### 📚 Currently Learning
-- Advanced **Data Science** (Machine Learning, Analytics, and AI pipelines)
-- **System Design** for scalable, enterprise-grade SaaS applications
+### Solution Architecture
+> **System Design & Technical Leadership**  
+> 7 Skills
+
+| Microservices Design | Scalability Planning | Technology Strategy |
+|----------------------|----------------------|---------------------|
+| System Integration | Performance Optimization | Security Architecture |
+| Technical Documentation |
 
 ---
 
-### 🌐 Socials
+### DevOps & Automation
+> **Infrastructure as Code & CI/CD**  
+> 3 Skills
+
+| Ansible | Docker | Kubernetes (K8s) |
+
+---
+
+### Frontend Development
+> **Interactive UI & Client-Side Architecture**
+
+| HTML | CSS / SCSS | JavaScript | TypeScript |
+|------|-------------|-------------|-------------|
+| React.js | Next.js | Vue.js | Redux |
+| Tailwind CSS | Bootstrap | Component-based Architecture |
+
+---
+
+### Database Design
+> **Relational & NoSQL Databases**
+
+| PostgreSQL | MySQL | MongoDB |
+|-------------|--------|----------|
+| Schema Design | Query Optimization | ORM (Django ORM / Prisma / Sequelize) |
+
+---
+
+### Currently Learning
+- Advanced **Data Science** (Machine Learning, Analytics, and AI pipelines)  
+
+---
+
+### Socials
 [💼 LinkedIn](https://www.linkedin.com/in/mazharul-islam-5194a5204/)  
 [📘 Facebook](https://www.facebook.com/mazharul.tamim.28/)
 
 ---
 
-### 🧠 Quote I Live By
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+### Quote I Live By
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
 
 ---
 
-⭐ **“Building the future, one commit at a time.”**
+**“Building the future, one commit at a time.”**

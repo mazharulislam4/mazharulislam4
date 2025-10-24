@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm **Mazharul Islam Tamim**
-#### 🚀 Full-Stack Developer | DevOps Enthusiast | AI Automation Explorer
+#### Full-Stack Developer | DevOps Enthusiast | Agentic AI Automation designer
 
 ---
 

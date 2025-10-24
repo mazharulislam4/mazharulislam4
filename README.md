@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm **Mazharul Islam Tamim**
-#### 🚀 Full-Stack Developer | DevOps Enthusiast | Agentic AI Automation Designer
+#### Full-Stack Developer | DevOps Enthusiast | Agentic AI Automation Designer
 
 ---
 
@@ -8,18 +8,18 @@
 I’m a **Full-Stack Developer** with strong expertise in **backend systems**, **database design**, and **system architecture**.  
 I build intelligent and scalable applications using modern technologies across the stack.
 
-- 🧠 Experienced in **Agentic AI** and **Multi-Agent automation systems**
-- 🌐 Skilled in both **Frontend** and **Backend** development  
-- ⚙️ Work with **DevOps tools** like Docker, Kubernetes, and Ansible  
-- 🧩 Use **GitHub** & **GitLab** for version control and CI/CD  
-- 📊 Currently exploring **Data Science** to integrate intelligent, data-driven decision systems  
-- ⚡ Fast learner — I adapt quickly to new technologies, tools, and frameworks  
+- Experienced in **Agentic AI** and **Multi-Agent automation systems**
+- Skilled in both **Frontend** and **Backend** development  
+- Work with **DevOps tools** like Docker, Kubernetes, and Ansible  
+- Use **GitHub** & **GitLab** for version control and CI/CD  
+- Currently exploring **Data Science** to integrate intelligent, data-driven decision systems  
+- Fast learner — I adapt quickly to new technologies, tools, and frameworks  
 
 ---
 
-## 🧠 Skills & Expertise  
+## Skills & Expertise  
 
-### 🧩 Backend Development  
+### Backend Development  
 > **Server-side Architecture & APIs**
 
 - Node.js  
@@ -35,7 +35,7 @@ I build intelligent and scalable applications using modern technologies across t
 
 ---
 
-### 🧱 Solution Architecture  
+### Solution Architecture  
 > **System Design & Technical Leadership**
 
 - Microservices Design  
@@ -48,7 +48,7 @@ I build intelligent and scalable applications using modern technologies across t
 
 ---
 
-### ⚙️ DevOps & Automation  
+### DevOps & Automation  
 > **Infrastructure as Code & CI/CD**
 
 - Ansible  
@@ -57,7 +57,7 @@ I build intelligent and scalable applications using modern technologies across t
 
 ---
 
-### 🖥️ Frontend Development  
+### Frontend Development  
 > **Interactive UI & Client-Side Architecture**
 
 - HTML, CSS, SCSS  
@@ -68,7 +68,7 @@ I build intelligent and scalable applications using modern technologies across t
 
 ---
 
-### 🗄️ Database Design  
+### Database Design  
 > **Relational & NoSQL Databases**
 
 - PostgreSQL  
@@ -79,18 +79,18 @@ I build intelligent and scalable applications using modern technologies across t
 
 ---
 
-### 📚 Currently Learning  
+### Currently Learning  
 - Advanced **Data Science** (Machine Learning, Analytics, and AI pipelines)  
 
 ---
 
-### 🌐 Socials  
-- [💼 LinkedIn](https://www.linkedin.com/in/mazharul-islam-5194a5204/)  
-- [📘 Facebook](https://www.facebook.com/mazharul.tamim.28/)
+### Socials  
+- [ LinkedIn](https://www.linkedin.com/in/mazharul-islam-5194a5204/)  
+- [ Facebook](https://www.facebook.com/mazharul.tamim.28/)
 
 ---
 
-### 🧠 Quote I Live By  
+###  Quote I Live By  
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
 
 ---

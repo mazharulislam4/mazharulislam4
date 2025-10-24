@@ -21,7 +21,6 @@ I build intelligent and scalable applications using modern technologies across t
 
 ### Backend Development
 > **Server-side Architecture & APIs**  
-> 11 Skills
 
 | Node.js | Python | Django | FastAPI | Headless CMS |
 |----------|---------|---------|---------|---------------|
@@ -31,7 +30,6 @@ I build intelligent and scalable applications using modern technologies across t
 
 ### Solution Architecture
 > **System Design & Technical Leadership**  
-> 7 Skills
 
 | Microservices Design | Scalability Planning | Technology Strategy |
 |----------------------|----------------------|---------------------|
@@ -42,7 +40,6 @@ I build intelligent and scalable applications using modern technologies across t
 
 ### DevOps & Automation
 > **Infrastructure as Code & CI/CD**  
-> 3 Skills
 
 | Ansible | Docker | Kubernetes (K8s) |
 

@@ -14,7 +14,7 @@ I build intelligent and scalable applications using modern technologies across t
 
 - Comfortable and adept in designing, maintaining, and automating **CI/CD pipelines** using DevOps tools like Docker, Kubernetes, and Ansible
 
-- Strong command of **GitHub** and **GitLab** for efficient source control, branching strategies, and continuous delivery
+- Extensively used GitHub and GitLab for efficient source control, branching strategies, and continuous delivery
 
 - Actively expanding knowledge in **Data Science** to build intelligent, data-driven product features
 
